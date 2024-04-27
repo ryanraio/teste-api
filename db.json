@@ -4,6 +4,7 @@
       "id": 1,
       "nome": "Usuario Teste",
       "senha": "senha123",
+      "sobre": "",
       "foto": "https://static.vecteezy.com/system/resources/thumbnails/002/534/006/small/social-media-chatting-online-blank-profile-picture-head-and-body-icon-people-standing-icon-grey-background-free-vector.jpg"
     },
     {
@@ -17,6 +18,7 @@
       "id": 3,
       "nome": "Thauane",
       "senha": "123",
+      "sobre": "",
       "foto": "https://i.pinimg.com/564x/96/f8/5a/96f85a3d3ec021d8f082ee6707989c2b.jpg"
     }
   ]
