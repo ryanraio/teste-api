@@ -21,5 +21,20 @@
       "sobre": "Eu sou a Thauane e amo livros de fantasia",
       "foto": "https://i.pinimg.com/564x/96/f8/5a/96f85a3d3ec021d8f082ee6707989c2b.jpg"
     }
+  ],
+  "livros": [
+    {
+      "id": 1,
+      "titulo": "Livro de Fantasia",
+      "autor": "Autor Fantasia",
+      "resumo": "Este é um livro de fantasia."
+    },
+    {
+      "id": 2,
+      "titulo": "Livro de Ficção Científica",
+      "autor": "Autor Ficção Científica",
+      "resumo": "Este é um livro de ficção científica."
+    }
+    // adicione mais livros conforme necessário
   ]
 }
