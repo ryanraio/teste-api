@@ -25,9 +25,45 @@
   "livros": [
     {
       "id": 1,
+      "titulo": "A Pequena Sereia",
+      "autor": "Louise Neill",
+      "sinopse": "Esqueça as histórias sobre sereias que você conhece. Esta é uma história diferente ― e necessária. E tudo começa no fundo do mar. Com uma garota chamada Gaia, que sonha em ser livre de seu pai controlador, fugir de um casamento arranjado e descobrir o que realmente aconteceu à sua mãe desaparecida. Em seu aniversário de quinze anos, quando finalmente sobe à superfície para conhecer o mundo de cima, Gaia avista um rapaz em um naufrágio e se convence de que precisa conhecê-lo. Mas do que ela precisa abrir mão para transformar seu sonho em realidade? E será que vale a pena? A Pequena Sereia e o Reino das Ilusões chega para trazer um pouco mais de contos de fadas para a linha DarkLove, da DarkSide® Books. Mas não do jeito que você espera; aqui, a história original de Hans Christian Andersen ― e também suas versões coloridas e afáveis em desenhos animados ― é reimaginada através de lentes feministas e ambientada em um mundo aquático em que mulheres são silenciadas diariamente ― um mundo que não difere tanto assim da sociedade em que vivemos. No reino de ilusões comandado pelo Rei dos Mares, as sereias não recebem educação, não têm direito de fala, devem se encaixar em um padrão de beleza impossível e sempre sorrir. É neste cenário que a autora irlandesa Louise O’Neill apresenta uma história sobre empoderamento e força feminina. Com narrativa e olhar afiados, a autora ainda desenvolve aspectos do conto original que passaram batido, como o relacionamento de Gaia com as irmãs e as camadas complexas da Bruxa do Mar. A Pequena Sereia e o Reino das Ilusões, que chega ao mundo acima da superfície da água com o padrão de qualidade que virou marca registrada da DarkSide® Books, mostra como, em um reino comandado pelo patriarcado, ter uma voz é arriscado. Mas também como querer usá-la é uma atitude extremamente poderosa e valiosa. Ainda mais em tempos tão sombrios.",
+      "imagem": "https://m.media-amazon.com/images/I/614ZEyNc+jL.jpg",
+      "avaliacao": 4.1,
+      "editora": "Darkside",
+      "genero": "Ficção Literária, Conto de Fadas e Terror",
+      "ano": 2019,
+      "paginas": 224
+    },
+    {
+      "id": 2,
+      "titulo": "Castella",
+      "autor": "Min-gyu Park",
+      "sinopse": "Tido como um dos mais inovadores expoentes da literatura coreana moderna, Park Min-Gyu espanta os leitores com sua escrita criativa, cheia de elementos fantásticos. Com uma linguagem coloquial e, ao mesmo tempo, literária, o caráter lúdico de sua escrita, misturado com uma boa dose de cinismo e ironia, presenteia os leitores de Castella com contos que revelam as idiossincrasias e a desigualdade social na Coreia do Sul, mas que transcendem o espaço físico da península, reverberando até nossas encostas tropicais brasileiras.",
+      "imagem": "https://m.media-amazon.com/images/I/91u0wHU3hZL._SY466_.jpg",
+      "avaliacao": 4.5,
+      "editora": "Martin Claret",
+      "genero": "Contos, Ficção Literária e Comteporânea",
+      "ano": 2022,
+      "paginas": 416
+    },
+    {
+      "id": 3,
+      "titulo": "Dois Irmãos",
+      "autor": "Milton Hatoum",
+      "sinopse": "Onze anos depois da publicação de Relato de um certo Oriente, Milton Hatoum retoma os temas do drama familiar e da casa que se desfaz. Dois irmãos é a história de como se constroem as relações de identidade e diferença numa família em crise. O enredo desta vez tem como centro a história de dois irmãos gêmeos - Yaqub e Omar - e suas relações com a mãe, o pai e a irmã. Moram na mesma casa Domingas, empregada da família, e seu filho. Esse menino - o filho da empregada - narra, trinta anos depois, os dramas que testemunhou calado. Buscando a identidade de seu pai entre os homens da casa, ele tenta reconstruir os cacos do passado, ora como testemunha, ora como quem ouviu e guardou, mudo, as histórias dos outros. Do seu canto, ele vê personagens que se entregam ao incesto, à vingança, à paixão desmesurada. O lugar da família se estende ao espaço de Manaus, o porto à margem do rio Negro: a cidade e o rio, metáforas das ruínas e da passagem do tempo, acompanham o andamento do drama familiar.Prêmio Jabuti 2001 de Melhor Romance A capa pode variar.",
+      "imagem": "https://m.media-amazon.com/images/I/91lzSUbiyhL._SY466_.jpg",
+      "avaliacao": 4.6,
+      "editora": "Companhia de Bolso",
+      "genero": "Romance e Ficção Literária",
+      "ano": 2006,
+      "paginas": 200
+    },
+    {
+      "id": 4,
       "titulo": "Mariposa Vermelha",
       "autor": "Fernanda Castro",
-      "resumo": "Na cidade de Fragária, sob o domínio da República, a magia é proibida, e Amarílis conhece como ninguém o perigo de quebrar as regras. Para evitar o destino trágico que teve sua mãe, a jovem tecelã mantém a cabeça baixa e os fios de seus poderes bem amarrados. Quando, por acaso, se vê diante do homem que causou a ruína de sua família, Amarílis decide convocar um demônio e fazer um pacto: ela quer a morte do general que destruiu sua mãe. Mas sua oferenda é muito simples, e Tolú, o Antigo que atende seu chamado, não pode tirar uma vida por um preço tão baixo. Ele pode, porém, ajudar Amarílis a enfrentar seus medos enquanto ela faz justiça com as próprias mãos. Com uma narrativa delicada e, ao mesmo tempo, sombria, Fernanda Castro conduz o leitor por uma história repleta de personagens fascinantes, horrores mundanos e poderes ocultos.",
+      "sinopse": "Na cidade de Fragária, sob o domínio da República, a magia é proibida, e Amarílis conhece como ninguém o perigo de quebrar as regras. Para evitar o destino trágico que teve sua mãe, a jovem tecelã mantém a cabeça baixa e os fios de seus poderes bem amarrados. Quando, por acaso, se vê diante do homem que causou a ruína de sua família, Amarílis decide convocar um demônio e fazer um pacto: ela quer a morte do general que destruiu sua mãe. Mas sua oferenda é muito simples, e Tolú, o Antigo que atende seu chamado, não pode tirar uma vida por um preço tão baixo. Ele pode, porém, ajudar Amarílis a enfrentar seus medos enquanto ela faz justiça com as próprias mãos. Com uma narrativa delicada e, ao mesmo tempo, sombria, Fernanda Castro conduz o leitor por uma história repleta de personagens fascinantes, horrores mundanos e poderes ocultos.",
       "imagem": "https://m.media-amazon.com/images/I/81859yi65LL._AC_UF1000,1000_QL80_.jpg",
       "avaliacao": 4.8,
       "editora": "Suma",
