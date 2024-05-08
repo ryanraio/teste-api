@@ -70,6 +70,30 @@
       "genero": "Literatura, Fantasia e Horror",
       "ano": 2023,
       "paginas": 272
+    },
+    {
+      "id": 5,
+      "titulo": "Assistente do Vilão",
+      "autor": "Hannah Nicole Maehrer",
+      "sinopse": "PROCURA-SE ASSISTENTE: Vilão notório do alto escalão busca assistente leal e equilibrado para funções de escritório não especificadas, apoio à equipe para caos e terror aleatórios e outras Coisas Sombrias em Geral. Discrição é essencial. Excelentes benefícios. Com uma família para sustentar, Evie Sage precisa desesperadamente de um trabalho. Então, quando um esbarrão acidental com o Vilão mais famoso de Rennedawn resulta em uma oferta de emprego, ela aceita sem pensar duas vezes. Alegre, fofa e divertida, Evie sabe que esse cargo não é bem o seu perfil, mas sabe também que nenhum trabalho é perfeito. O que ela jamais esperaria era desenvolver uma queda por seu chefe aterrorizante, temperamental e inegavelmente gato. Quando finalmente se acostuma com as diversas cabeças decepadas penduradas no teto e com o barulho estranho de globos oculares errantes sendo esmagados sob seus pés, Evie começa a suspeitar de que algo estranho pode estar acontecendo no reino: alguém quer acabar com o Vilão e com todo o seu império nefasto. Agora, além de se esforçar para não babar pelo seu chefe, ela também precisa descobrir quem está tentando sabotar seu trabalho e fazer de tudo para impedi-lo. Afinal, não é fácil encontrar um bom emprego. Assistente do Vilão é o início de uma trilogia de fantasia romântica autêntica e cheia de humor, que mistura contos de fadas e ambiente corporativo. Ideal para os fãs de Shrek , Enrolados , Wandinha , Nimona e, claro, para todos que acreditam que príncipes são bons, mas vilões são melhores.",
+      "imagem": "https://m.media-amazon.com/images/I/81DkKVIavBL._AC_UF1000,1000_QL80_DpWeblab_.jpg",
+      "avaliacao": 4.8,
+      "editora": "Alt",
+      "genero": "Fantasia",
+      "ano": 2024,
+      "paginas": 512
+    },
+    {
+      "id": 6,
+      "titulo": "Noiva",
+      "autor": "Hannah Grace",
+      "sinopse": "Misery Lark, filha do vampiro mais poderoso do sudoeste, nunca foi bem-vista pelos seres de sua espécie. Ela passa seus dias anonimamente em meio aos humanos, isolada, até que é chamada para firmar um acordo de paz entre vampiros e licanos, seus inimigos mortais. Para isso, será obrigada a se casar com Lowe Moreland. Licanos são lobisomens cruéis e imprevisíveis, e o alfa do bando, Lowe, não é exceção. Ele governa o grupo com autoridade absoluta, mas também com justiça. Pela forma como acompanha cada passo de Misery, fica claro que não confia nela. E ele não poderia estar mais certo... A vampira tem as próprias razões para concordar com o casamento arranjado, razões que nada têm a ver com política ou alianças, mas tudo a ver com a coisa que ela mais preza no mundo. Misery está disposta a fazer o que for necessário para recuperar o que é seu, mesmo que precise viver sozinha em território licano. Ela só não esperava se sentir atraída por seu inimigo... e ainda ser correspondida.",
+      "imagem": "https://m.media-amazon.com/images/I/51yAaQQZ3qL._SY445_SX342_.jpg",
+      "avaliacao": 4.8,
+      "editora": "Alt",
+      "genero": "Fantasia",
+      "ano": 2024,
+      "paginas": 512
     }
   ]
 }
