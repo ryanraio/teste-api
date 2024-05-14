@@ -16,7 +16,7 @@
       "senha": "123",
       "sobre": "Eu não sei oque colocar",
       "foto": "https://i.pinimg.com/originals/30/33/0b/30330b5e8e0f772f0edaa310294703a2.jpg",
-      "livrosLidos": [2, 4],
+      "livrosLidos": [2, 4,8],
       "livrosQueroLer": [3, 4],
       "livrosLendo": [5, 6]
     },
