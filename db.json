@@ -7,9 +7,7 @@
       "sobre": "Eu sou apenas um usuario de testes",
       "foto": "https://static.vecteezy.com/system/resources/thumbnails/002/534/006/small/social-media-chatting-online-blank-profile-picture-head-and-body-icon-people-standing-icon-grey-background-free-vector.jpg",
       "livros": {
-    "lendo": [1, 2],
-    "lidos": [3, 4],
-    "querLer": [5, 6]
+    "lendo": [1]
   }
     },
     {
@@ -19,9 +17,7 @@
       "sobre": "Eu não sei oque colocar",
       "foto": "https://i.pinimg.com/originals/30/33/0b/30330b5e8e0f772f0edaa310294703a2.jpg",
       "livros": {
-    "lendo": [1, 2],
-    "lidos": [3, 4],
-    "querLer": [5, 6]
+    "lendo": [2]
   }
     },
     {
@@ -31,9 +27,7 @@
       "sobre": "Eu sou a Thauane e amo livros de fantasia",
       "foto": "https://i.pinimg.com/564x/96/f8/5a/96f85a3d3ec021d8f082ee6707989c2b.jpg",
       "livros": {
-    "lendo": [1, 2],
-    "lidos": [3, 4],
-    "querLer": [5, 6]
+    "lendo": [3]
   }
     }
   ],
